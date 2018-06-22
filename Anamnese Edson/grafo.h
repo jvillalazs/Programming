@@ -1,21 +1,19 @@
-#ifndef ADINAMICO_H_
-#define ADINAMICO_H_
+#ifndef Grafo_H_
+#define Grafo_H_
 
-typedef struct ArrayDinamico TArrayDinamico;
+typedef struct Grafo TGrafo;
 
 //Métodos do Tipo TArrayDinamico
-typedef void (*TinserirADI)(TArrayDinamico *vet,void* elem);
-typedef void (*TinserirADIposicao)(TArrayDinamico* vet, void* elem, int posicao);
-typedef void* (*TremoverADI)(TArrayDinamico *vet, void *elem);
-typedef int (*TbuscarADI)(TArrayDinamico *vet, void* valor);
-typedef void (*TordenaADI) (TArrayDinamico* vet,int prim);
-typedef void (*TDestroiADI) (TArrayDinamico* vet);
+typedef void (*TinserirGrafo)(TGrafo *vet,void* elem);
+typedef int (*TbuscarGrafo)(TGrafo *vet, void* valor);
+typedef void (*TDestroiGrafo) (TGrafo* vet);
+typedef struct Vertice TVertice { }
 
 //Dados do Tipo TArrayDinamico
-typedef struct dadosADI{
-	int tamanho;
-	int ocupacao;
-	void* *vetor;
+typedef struct dadoGrafo{
+	int vertices;
+	int arestas;
+	void* *;
 } TDadosADI;
 
 struct ArrayDinamico{
