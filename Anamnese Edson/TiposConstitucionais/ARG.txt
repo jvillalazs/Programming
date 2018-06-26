@@ -5,3 +5,30 @@ Voce evita novos empreendimentos com medo de fracassar? - Muitissimo, muito e po
 Voce e apreensivo? - Muitissimo e muito
 Voce e facilmente impressionavel? - Pouco
 Voce fica ansioso com relacao a saude? - Muitissimo e muito
+
+Voce gosta de queijo? - Muitissimo e muito
+Voce gosta de doces? - Muitissimo e muito
+Voce odeia doces? - Pouco
+Voce gosta de doces mas eles lhe fazem mal? - Muitissimo e muito
+Voce gosta de salgados? - Muitissimo e muito
+Voce tem pouca sede? - Pouco
+
+Voce tem medo de altura? - Muitissimo e muito
+Voce tem medo de locais fechados? - Muitissimo e muito
+Voce tem medo de multidoes ou espacos abertos? - Muitissimo, muito e pouco
+Voce tem medo de ladrao? - Pouco
+Voce tem medo de ficar sozinho? - Muitissimo e muito
+Voce tem medo de se atrasar? - Muitissimo e muito
+Voce tem medo de doenca? - Pouco
+Voce tem medo de ficar louco? - Pouco
+Voce tem medo da morte? - Pouco
+Voce tem medo de falir? - Pouco
+Voce tem medo de nao conseguir se controlar? - Muitissimo e muito
+
+Voce e calorento e piora nos dias quentes? - Muito e pouco
+Enfermidades pioram em ambientes abafados? - Pouco
+Enfermidades pioram quando o tempo e frio e umido? - Pouco
+Enfermidades pioram na epoca da lua cheia? - Muitissimo e muito
+Voce evita deitar-se sobre o lado esquerdo ao dormir? - Pouco
+
+Voce e propenso a enfermidades no lado esquerdo do corpo? - Muitissimo e muito
