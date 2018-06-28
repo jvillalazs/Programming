@@ -1,0 +1,52 @@
+Voce chora a toa? - Muitissimo e muito
+Voce e desconfiado? - Pouco
+Voce e critico? - Muitissimo e muito
+Voce e consciencioso com trivialidades? - Muitissimo e muito
+Voce e vaidoso? - Muitissimo muito e pouco
+Voce e egoista? - Muitissimo e muito
+Voce e ambicioso? - Pouco
+Voce e propenso a preocupar-se com tudo? - Pouco
+Voce pensa rapido? - Pouco
+Voce pensa devagar? - Pouco
+Voce tende a procrastinacao? - Pouco
+Voce sente repulsa sexual por mulheres? - Pouco
+Voce gosta de alimentos crus? - Muitissimo e muito
+Voce come como se nao houvesse amanha? - Pouco
+Voce odeia ovos? - Muitissimo e muito
+Voce gosta de amilaceos? - Pouco
+Voce gosta de comida gordurosa? - Muitissimo e muito
+Comida gordurosa lhe provoca problemas digestivos? - Pouco
+Voce gosta de azeite de oliva? - Pouco
+Voce gosta de doces? - Muitissimo e muito
+Voce odeia doces? - Pouco
+Voce gosta de doces mas eles lhe fazem mal? - Muitissimo e muito
+Voce gosta de ostras? - Pouco
+Voce gosta de picles? - Pouco
+Voce gosta de condimentos? - Muitissimo e muito
+Voce acha que cebola lhe faz mal? - Pouco
+Voce acha que leite lhe faz mal? - Muitissimo e muito
+Voce acha que bebida quente lhe faz mal? - Muitissimo muito e pouco
+Voce gosta de bebida alcoolica? - Muitissimo e muito
+Voce acha que cerveja lhe faz mal? - Pouco
+Voce odeia cafe? - Pouco
+Voce tem medo de altura? - Pouco
+Voce tem medo de fantasma? - Muitissimo e muito
+Voce tem medo de falir? - Pouco
+Voce e calorento e piora nos dias quentes? - Muitissimo muito e pouco
+Enfermidades pioram em ambientes abafados? - Muitissimo e muito
+Voce sente calor nos pes durante a noite? (tira-os das cobertas) - Muitissimo e muito
+Seus pes suam muito e cheiram mal? - Pouco
+Enfermidades pioram depois de suar? - Pouco
+Enfermidades pioram quando ficam muito tempo em pe? - Muitissimo e muito
+Enfermidades pioram quando o tempo e frio e umido? - Pouco
+Voce e sensivel a dores? - Pouco
+Seus olhos sao sensiveis a luz do sol? - Muitissimo e muito
+Voce sente dor de cabeca ou fraqueza ao nao fazer uma refeicao? - Muitissimo muito e pouco
+Enfermidades melhoram durante a menstruacao? - Pouco
+Enfermidades pioram entre 4h - 8h e 16h - 20h? - Pouco
+Enfermidades pioram entre 4h - 6h e 16h - 18h? - Pouco
+Enfermidades pioram entre 2h - 5h? - Pouco
+Enfermidades pioram na primavera? - Pouco
+Enfermidades pioram na epoca da lua cheia? - Pouco
+Voce evita deitar-se sobre o lado esquerdo ao dormir? - Pouco
+Voce e propenso a enfermidades no lado esquerdo do corpo? - Muitissimo e muito
