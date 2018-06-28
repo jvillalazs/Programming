@@ -22,7 +22,7 @@ typedef struct dadosGrafo{
 	int vertices;
 	int visitados;
 	int marcados;
-	Tvertice fonte;
+	Tvertice* fonte;
 } TDadosGrafo;
 
 struct Grafo{

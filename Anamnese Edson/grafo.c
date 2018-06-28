@@ -4,88 +4,56 @@
 #include "adinamico.h"
 #include "grafo.h"
 
-static TDadosGrafo *criarDadosGrafo(char pergunta[400], char resposta[200], int pontuacao){
-	TDadosGrafo *aloca = malloc(sizeof(TDadosGrafo));
+static Tvertice *criarVertice(char pergunta[400], char resposta[200], int pontuacao){
+	Tvertice *aloca = malloc(sizeof(Tvertice));
 	if(aloca!= NULL){
-		
+		strcpy(aloca->pergunta,pergunta);
+		strcpy(aloca->resposta,resposta);
+		aloca->pontuacao = pontuacao;
+		aloca->coleguinha = NULL;
 	}
 	return aloca;
 }
 
-
-static void inserirADI(TArrayDinamico *vet, void* elem){
-	TDadosADI *dadosVet = vet->dadosADI;
-
-    //Verifica se o vetor está cheio, para redimensioná-lo caso precise
-	if (dadosVet->ocupacao == dadosVet->tamanho){
-		dadosVet->vetor = realloc(dadosVet->vetor,sizeof(void*)*(2*dadosVet->tamanho));
-		dadosVet->tamanho = 2*dadosVet->tamanho;
+static TDadosGrafo *criarDadosGrafo(char nome[100], char sigla[50]){
+	TDadosGrafo *aloca = malloc(sizeof(TDadosGrafo));
+	if(aloca != NULL){
+		strcpy(aloca->nome,nome);
+		strcpy(aloca->sigla,sigla);
+		aloca->vertices = 0;
+		aloca->visitados = 0;
+		aloca->marcados = 0;
+		aloca->fonte = NULL;
 	}
-
-	dadosVet->vetor[dadosVet->ocupacao] = elem;
-	dadosVet->ocupacao += 1;
+	return aloca;
 }
 
-static void inserirADIposicao(TArrayDinamico* vet, void* elem, int posicao){
-	TDadosADI* dadoVet = vet->dadosADI;
+static Tvertice* InserirGrafo(Tvertice *fonte, void* elem){
+	Tvertice* novoElemento = elem;
 
-	if(dadoVet->vetor[posicao] == NULL){
-		dadoVet->vetor[posicao] = elem;
-		dadoVet->ocupacao += 1;
+	if(fonte == NULL){
+		fonte = elem;
 	}else{
-		printf("\n\nHorario ocupado. Digite outro por favor: ");
-		setbuf(stdin,NULL);
-		scanf("%d",&posicao);
-		inserirADIposicao(vet,elem,posicao);
-	}
-}
-
-static int buscarADI(TArrayDinamico *vet, void *elem){
-	TDadosADI *dadosVet = vet->dadosADI;
-	TComparavel *compara = elem;
-
-	int indice=0;
-	while ((indice<dadosVet->ocupacao) && (compara->compara(elem,dadosVet->vetor[indice])!=0) )
-		indice++;
-
-	return (indice==dadosVet->ocupacao?-1:indice);
-
-}
-
-static void* removerADI(TArrayDinamico *vet, void *procurado){
-	TDadosADI *dadosVet = vet->dadosADI;
-
-	int indice=buscarADI(vet,procurado);
-	void *elem = NULL;
-	if (indice!=-1){
-		elem = dadosVet->vetor[indice];
-		for(;indice<dadosVet->ocupacao;indice++)
-			dadosVet->vetor[indice]=dadosVet->vetor[indice+1];
-		dadosVet->ocupacao--;
+		InserirGrafo(fonte->coleguinha,elem);
 	}
 
-	return elem;
+	return fonte;
 }
 
-static void DestroiADI(TArrayDinamico* vet) {
-    vet->ordenar = NULL;
-    vet->inserir = NULL;
-    vet ->buscar = NULL;
-    vet->remover = NULL;
-    vet->dadosADI = NULL;
-    free(vet);
+static void DestroiGrafo(TGrafo* graf) {
+    graf->inserir = NULL;
+	graf->buscar = NULL;
+	graf->dadosGrafo = NULL;
+    free(graf);
 }
 
 
-TArrayDinamico *criarADI(int tamanhoInicial){
-	TArrayDinamico *adi = malloc(sizeof(TArrayDinamico));
-	if(adi != NULL){
-		adi->dadosADI = criarDadosADI(tamanhoInicial);
-		adi->inserir = inserirADI;
-		adi->inserirposicao = inserirADIposicao;
-		adi->buscar = buscarADI;
-		adi->remover=removerADI;
-		adi->destruir=DestroiADI;
+TGrafo *criarGrafo(char nome[100], char sigla[50]){
+	TGrafo *graf = malloc(sizeof(TGrafo));
+	if(graf != NULL){
+		graf->dadosGrafo = criarDadosGrafo(nome,sigla);
+		graf->inserir = InserirGrafo;
+		graf->destruir = DestroiGrafo;
 	}
-	return adi;
+	return graf;
 }
