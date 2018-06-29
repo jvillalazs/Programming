@@ -16,7 +16,7 @@ Voce e vaidoso?-1-2-3
 Voce e egoista?-1-2
 Voce e ambicioso?-3
 Voce e propenso a preocupar-se com tudo?-3
-Voce fica ansioso quando acompanhado? -1-3
+Voce fica ansioso quando acompanhado?-1-3
 Voce fica ansioso quando se espera algo de voce?-1-2
 Voce e ansioso e cauteloso?-3
 Voce e tolerante/passivo?-3

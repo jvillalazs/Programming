@@ -153,10 +153,10 @@ Voce sente dor de cabeca ou fraqueza ao nao fazer uma refeicao?
 Voce se sente melhor em jejum?
 Voce se sente melhor apos um cochilo rapido?
 Enfermidades melhoram durante a menstruacao?
-Enfermidades pioram entre 4h-8h e 16h-20h?
-Enfermidades pioram entre 4h-6h e 16h-18h?
-Enfermidades pioram entre 1h-2h?
-Enfermidades pioram entre 2h-5h?
+Enfermidades pioram entre 4h e 8h e 16h e 20h?
+Enfermidades pioram entre 4h e 6h e 16h e 18h?
+Enfermidades pioram entre 1h e 2h?
+Enfermidades pioram entre 2h e 5h?
 Enfermidades pioram na primavera?
 Enfermidades pioram na epoca da lua cheia?
 Enfermidades pioram de manha e a noite?

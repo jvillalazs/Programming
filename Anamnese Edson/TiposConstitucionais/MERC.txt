@@ -1,6 +1,5 @@
 Voce tem tendencia a contrariar?-3
 Voce se sente inibido?-1-2
-
 Voce gosta de pao com manteiga?-1-2
 Voce odeia doces?-3
 Voce odeia salgados?-3
@@ -9,14 +8,12 @@ Voce gosta de leite?-1-2-3
 Voce relutava para mamar no peito durante a infancia?-3
 Voce odeia cafe?-3
 Voce acha que cafe lhe faz mal?-3
-
 Voce tem medo de tempestades?-3
 Voce tem medo de objetos pontiagudos?-3
 Voce tem medo de ladrao?-3
 Voce tem medo de ficar louco?-3
 Voce tem medo da morte?-3
 Voce teme pela saude da sua familia?-1-2
-
 Enfermidades pioram em ambientes abafados?-3
 Voce e friorento mas piora no calor?-1-2
 Enfermidades pioram depois de suar?-1-2

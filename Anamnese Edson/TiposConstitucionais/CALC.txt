@@ -40,7 +40,7 @@ Voce e friorento mas melhora no calor?-3
 Seus pes suam muito e cheiram mal?-3
 Enfermidades pioram depois de suar?-3
 Sua cabeca fica suada quando acorda?-1-2
-Enfermidades pioram quando ficam 2 tempo em pe?-3
+Enfermidades pioram quando ficam muito tempo em pe?-3
 Enfermidades pioram quando o tempo e frio e umido?-1-2
 Voce e sensivel a dores?-3
 Enfermidades melhoram durante a menstruacao?-3

@@ -7,7 +7,7 @@ Voce e impulsivo?-3
 Voce e desconfiado?-1-2
 Voce e critico?-1-2
 Voce e meticuloso?-1-2
-Voce e perfeccionista? 1-2
+Voce e perfeccionista?-1-2
 Voce e consciencioso com trivialidades?-1-2
 Voce e ambicioso?-3
 Voce e pessimista?-1-2
@@ -49,9 +49,9 @@ Voce tem medo de ficar pobre?-1-2
 Voce e friorento mas melhora no calor?-1-2
 Enfermidades pioram quando o tempo e frio e umido?-1-2
 Enfermidades pioram quando o tempo e frio e seco?-3
-Enfermidades pioram quando venta 2?-3
+Enfermidades pioram quando venta muito?-3
 Voce fica pior respirando ar marinho?-3
 Voce e sensivel a dores?-3
-Enfermidades pioram entre 1h-2h?-1-2-3
+Enfermidades pioram entre 1h e 2h?-1-2-3
 Enfermidades pioram na epoca da lua cheia?-1-2
 Voce e propenso a enfermidades no lado direito do corpo?-1-2
