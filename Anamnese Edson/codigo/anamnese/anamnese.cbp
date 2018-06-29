@@ -42,6 +42,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="../grafo.h" />
+		<Unit filename="../pergunta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../pergunta.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
