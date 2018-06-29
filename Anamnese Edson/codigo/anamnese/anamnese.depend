@@ -7,7 +7,7 @@
 
 1530194884 c:\users\manogray\documents\programming\anamnese edson\codigo\adinamico.h
 
-1530279797 source:c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.c
+1530288385 source:c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -15,7 +15,7 @@
 	"grafo.h"
 	"pergunta.h"
 
-1530278463 c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.h
+1530288220 c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.h
 
 1530279762 source:c:\users\manogray\documents\programming\anamnese edson\codigo\anamnese.c
 	<stdio.h>
@@ -25,11 +25,11 @@
 	"grafo.h"
 	"pergunta.h"
 
-1530233689 source:c:\users\manogray\documents\programming\anamnese edson\codigo\pergunta.c
+1530289506 source:c:\users\manogray\documents\programming\anamnese edson\codigo\pergunta.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"pergunta.h"
 
-1530233665 c:\users\manogray\documents\programming\anamnese edson\codigo\pergunta.h
+1530289506 c:\users\manogray\documents\programming\anamnese edson\codigo\pergunta.h
 

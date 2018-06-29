@@ -5,11 +5,15 @@
 #include "grafo.h"
 #include "pergunta.h"
 
-static Tvertice *criarVertice(char pergunta[400], int resposta, int pontuacao){
+static Tvertice *criarVertice(char pergunta[400], int resposta[10], int pontuacao){
 	Tvertice *aloca = malloc(sizeof(Tvertice));
 	if(aloca!= NULL){
 		strcpy(aloca->pergunta,pergunta);
-		strcpy(aloca->resposta,resposta);
+        int contador = 0;
+        while(contador < 10){
+            aloca->resposta[contador] = resposta[contador];
+            contador = contador + 1;
+        }
 		aloca->pontuacao = pontuacao;
 		aloca->coleguinha = NULL;
 	}

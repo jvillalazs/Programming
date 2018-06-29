@@ -7,7 +7,7 @@ static TDadosPergunta *criarDadosPergunta(char pergunta[400]){
 	TDadosPergunta *aloca = malloc(sizeof(TDadosPergunta));
 	if(aloca!= NULL){
 		strcpy(aloca->perguntinha,pergunta);
-		aloca->resposta = -1;
+		aloca->resposta[0] = -1;
 	}
 	return aloca;
 }

@@ -38,7 +38,7 @@ void ColetaRespostas(TArrayDinamico* vet){
             printf("[1]Muitissimo   [2]Muito   [3]Pouco   [0]Nao se aplica\n\n");
             scanf("%d",&temp);
             if(temp <= 3 && temp >= 0){
-                dadosPPP->resposta = temp;
+                dadosPPP->resposta[0] = temp;
                 ok = 1;
             }else{
                 printf("\n\nresposta invalida!");
@@ -49,7 +49,39 @@ void ColetaRespostas(TArrayDinamico* vet){
 }
 
 void AlimentaGrafo(TGrafo* graf, char *diretorio){
+	char Linhazona[600];
+	TDadosGrafo* dadosGraf = graf->dadosGrafo;
+	int contador = 0;
+	char perguntaa[400];
+	int respostaa[10];
 
+	FILE* arquivo = fopen(diretorio,"r");
+    if(arquivo != NULL){
+        while((fgets(Linhazona,sizeof(Linhazona),arquivo)) != NULL){
+            Linhazona[strlen(Linhazona)-1] = '\0';
+            while(Linhazona[contador] != "-"){
+                char perguntaa[contador] = Linhazona[contador];
+                contador = contador + 1;
+            }
+            contador = contador + 1;
+            if(contador == strlen(Linhazona)){
+                TPergunta* inserido = criarPergunta(perguntaa);
+                TDadosPergunta* dadoInserido = inserido->dadosPergunta;
+                dadoInserido->resposta[0] = (int)Linhazona[contador];
+            }
+
+            if(contador == strlen(Linhazona)+2){
+
+            }
+
+
+        }
+    }else{
+        printf("\n\n Arquivo '%s' Não Encontrado !\n\n",diretorio);
+    }
+    fclose(arquivo);
+
+	return Vetorzao;
 }
 
 int main(){
@@ -57,13 +89,6 @@ int main(){
     TArrayDinamico* Perguntas = getPerguntas("../../Perguntas.txt");
 
     ColetaRespostas(Perguntas);
-
-    TDadosADI* dadosPerguntas = Perguntas->dadosADI;
-    TPergunta* per = dadosPerguntas->vetor[0];
-    TDadosPergunta* dadosPer = per->dadosPergunta;
-
-    printf("%s",dadosPer->perguntinha);
-    printf(" - %d",dadosPer->resposta);
 
     return 0;
 }

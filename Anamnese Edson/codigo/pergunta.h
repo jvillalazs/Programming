@@ -5,7 +5,7 @@ typedef struct Pergunta TPergunta;
 
 typedef struct dadosPergunta{
 	char perguntinha[400];
-	int resposta;
+	int resposta[10];
 } TDadosPergunta;
 
 struct Pergunta{
