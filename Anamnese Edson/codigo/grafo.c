@@ -61,6 +61,14 @@ static Tvertice* InserirGrafo(Tvertice *fonte, void* elem){
 	return fonte;
 }
 
+static void* BuscaGrafo(Tvertice* fonte, void* elem){
+    //busque um vertice pra mim
+}
+
+static int MedeCaminho(Tvertice* fonte){
+    //mede o tamanho do caminho maior
+}
+
 static void DestroiGrafo(TGrafo* graf) {
     graf->inserirGrafo = NULL;
 	graf->buscarGrafo = NULL;
@@ -74,6 +82,8 @@ TGrafo *criarGrafo(char nome[100], char sigla[50]){
 	if(graf != NULL){
 		graf->dadosGrafo = criarDadosGrafo(nome,sigla);
 		graf->inserirGrafo = InserirGrafo;
+		graf->buscarGrafo = BuscaGrafo;
+		graf->medeCaminhoGrafo = MedeCaminho;
 		graf->destruirGrafo = DestroiGrafo;
 	}
 	return graf;
