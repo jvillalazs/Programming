@@ -2,19 +2,20 @@
 #define GRAFO_H_
 
 typedef struct Grafo TGrafo;
+typedef struct vertice Tvertice;
 
 typedef void (*TinserirGrafo)(TGrafo *graf,void* elem);
 typedef int (*TbuscarGrafo)(TGrafo *graf, void* param1, void* param2);
 typedef void (*TDestroiGrafo) (TGrafo* graf);
 
-typedef struct Tvertice{
+struct vertice{
 	char pergunta[400];
 	char resposta[200];
 	int pontuacao;
 	int visitado;
 	int marcado;
 	Tvertice* coleguinha;
-} Tvertice;
+};
 
 typedef struct dadosGrafo{
 	char nome[100];
@@ -27,9 +28,9 @@ typedef struct dadosGrafo{
 
 struct Grafo{
 	void *dadosGrafo;
-	TinserirGrafo inserir;
-	TbuscarGrafo buscar;
-	TDestroiGrafo destruir;
+	TinserirGrafo inserirGrafo;
+	TbuscarGrafo buscarGrafo;
+	TDestroiGrafo destruirGrafo;
 };
 
 TGrafo *criarGrafo(char nome[100], char sigla[50]);

@@ -4,11 +4,7 @@
 typedef struct ArrayDinamico TArrayDinamico;
 
 //Métodos do Tipo TArrayDinamico
-typedef void (*TinserirADI)(TArrayDinamico *vet,void* elem);
-typedef void (*TinserirADIposicao)(TArrayDinamico* vet, void* elem, int posicao);
-typedef void* (*TremoverADI)(TArrayDinamico *vet, void *elem);
-typedef int (*TbuscarADI)(TArrayDinamico *vet, void* valor);
-typedef void (*TordenaADI) (TArrayDinamico* vet,int prim);
+typedef void (*TinserirADI)(TArrayDinamico *vet,void* elem);;
 typedef void (*TDestroiADI) (TArrayDinamico* vet);
 
 //Dados do Tipo TArrayDinamico
@@ -21,10 +17,6 @@ typedef struct dadosADI{
 struct ArrayDinamico{
 	void *dadosADI; //Dados encapsulados
 	TinserirADI inserir;//Tipo Inserir
-	TinserirADIposicao inserirposicao; //Tipo insere na posicao
-	TremoverADI remover;//Tipo Remover
-	TbuscarADI buscar;//Tipo Buscar
-	TordenaADI ordenar; //Tipo Ordena
 	TDestroiADI destruir; //Tipo destroi
 };
 

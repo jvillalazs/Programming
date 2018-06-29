@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1530194875 source:c:\users\manogray\documents\programming\anamnese edson\codigo\adinamico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"adinamico.h"
+
+1530194884 c:\users\manogray\documents\programming\anamnese edson\codigo\adinamico.h
+
+1530195027 source:c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"adinamico.h"
+	"grafo.h"
+
+1530195008 c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.h
+
+1530233386 source:c:\users\manogray\documents\programming\anamnese edson\codigo\anamnese.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"adinamico.h"
+	"grafo.h"
+	"pergunta.h"
+
+1530233689 source:c:\users\manogray\documents\programming\anamnese edson\codigo\pergunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pergunta.h"
+
+1530233665 c:\users\manogray\documents\programming\anamnese edson\codigo\pergunta.h
+
