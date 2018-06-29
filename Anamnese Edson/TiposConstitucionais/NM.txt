@@ -1,48 +1,48 @@
-Voce chora a toa? - Muitissimo e muito
-Voce chora de ansiedade? - Pouco
-Musica o leva as lagrimas? - Muitissimo e muito
-Voce chora na fase pre-menstrual? - Pouco
-Odeia solidariedade? - Muitissimo e muito
-Voce e solidario? - Pouco
-Voce tem tendencia a suspirar com frequencia? - Pouco
-Voce tem tendencia a remoer pensamento ou ficar de mau humor? - Muitissimo e muito
-Voce e irritavel? - Pouco
-Voce e irritavel na fase pre-menstrual? - Pouco
-Voce e meticuloso? - Pouco
-Voce e propenso a preocupar-se com tudo? - Pouco
-Voce fica ansioso com a sensacao de preocupacao? - Muitissimo muito e pouco
-Voce e tolerante/passivo? - Pouco
-Voce e inseguro? - Pouco
-Voce e apreensivo? - Muitissimo e muito
-Voce se sente inibido? - Pouco
-Voce reprime a tristeza apos consternacao? Muitissimo muito e pouco
-Voce e afetuoso? - Pouco
-Voce odeia ser tocado? - Muitissimo e muito
-Sendo do sexo feminino, voce sente desinteresse sexual? - Muitissimo e muito
-Voce gosta de amilaceos? - Pouco
-Voce gosta de salgados? - Muitissimo e muito
-Voce odeia salgados? - Pouco
-Voce gosta de ostras? - Pouco
-Voce gosta de limao? - Pouco
-Voce gosta de leite? - Muitissimo muito e pouco
-Voce acha que leite lhe faz mal? - Pouco
-Voce odeia cafe? - Pouco
-Voce tem medo de locais fechados? - Muitissimo e muito
-Voce tem medo de multidoes ou espacos abertos? Muitissimo muito e pouco
-Voce tem medo de tempestades? - Pouco
-Voce tem medo de objetos pontiagudos? - Pouco
-Voce tem medo do escuro? - Pouco
-Voce tem medo de ladrao? - Muitissimo e muito
-Voce tem medo de se atrasar? - Pouco
-Voce tem medo de sofrer emocionalmente? - Muitissimo e muito(5)
-Voce tem medo de ficar louco? - Pouco
-Voce tem medo da morte? - Pouco
-Voce tem medo de falir? - Pouco
-Voce tem medo de nao conseguir se controlar? - Pouco
-Voce e friorento mas piora no calor? - Pouco
-Voce fica melhor respirando ar marinho? - Muitissimo muito e pouco
-Voce fica pior respirando ar marinho? - Muitissimo e muito
-Seus olhos sao sensiveis a luz do sol? - Muitissimo e muito
-Voce se sente melhor em jejum? - Muitissimo e muito(5)
-Enfermidades pioram na primavera? - Pouco
-Voce evita deitar-se sobre o lado esquerdo ao dormir? - Pouco
+Voce chora a toa?-1-2
+Voce chora de ansiedade?-3
+Musica o leva as lagrimas?-1-2
+Voce chora na fase pre-menstrual?-3
+Odeia solidariedade?-1-2
+Voce e solidario?-3
+Voce tem tendencia a suspirar com frequencia?-3
+Voce tem tendencia a remoer pensamento ou ficar de mau humor?-1-2
+Voce e irritavel?-3
+Voce e irritavel na fase pre-menstrual?-3
+Voce e meticuloso?-3
+Voce e propenso a preocupar-se com tudo?-3
+Voce fica ansioso com a sensacao de preocupacao?-1-2-3
+Voce e tolerante/passivo?-3
+Voce e inseguro?-3
+Voce e apreensivo?-1-2
+Voce se sente inibido?-3
+Voce reprime a tristeza apos consternacao?-1-2-3
+Voce e afetuoso?-3
+Voce odeia ser tocado?-1-2
+Sendo do sexo feminino, voce sente desinteresse sexual?-1-2
+Voce gosta de amilaceos?-3
+Voce gosta de salgados?-1-2
+Voce odeia salgados?-3
+Voce gosta de ostras?-3
+Voce gosta de limao?-3
+Voce gosta de leite?-1-2-3
+Voce acha que leite lhe faz mal?-3
+Voce odeia cafe?-3
+Voce tem medo de locais fechados?-1-2
+Voce tem medo de multidoes ou espacos abertos?-1-2-3
+Voce tem medo de tempestades?-3
+Voce tem medo de objetos pontiagudos?-3
+Voce tem medo do escuro?-3
+Voce tem medo de ladrao?-1-2
+Voce tem medo de se atrasar?-3
+Voce tem medo de sofrer emocionalmente?-1-2
+Voce tem medo de ficar louco?-3
+Voce tem medo da morte?-3
+Voce tem medo de falir?-3
+Voce tem medo de nao conseguir se controlar?-3
+Voce e friorento mas piora no calor?-3
+Voce fica melhor respirando ar marinho?-1-2-3
+Voce fica pior respirando ar marinho?-1-2
+Seus olhos sao sensiveis a luz do sol?-1-2
+Voce se sente melhor em jejum?-1-2
+Enfermidades pioram na primavera?-3
+Voce evita deitar-se sobre o lado esquerdo ao dormir?-3

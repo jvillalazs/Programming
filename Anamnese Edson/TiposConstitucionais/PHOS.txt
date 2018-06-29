@@ -1,67 +1,67 @@
-Voce chora na fase pre-menstrual? - Pouco
-Voce gosta de solidariedade? - Muitissimo muito e pouco
-Voce e solidario? - Muitissimo e muito
-Acha que te falta solidariedade? - Muitissimo e muito
-Voce e irritavel? - Pouco
-Enfurece-se com facilidade? - Pouco
-Voce e desconfiado? - Pouco
-Voce e critico? - Pouco
-Voce e tolerante/passivo? - Pouco
-Voce e facilmente impressionavel? - Muitissimo e muito
-Voce pensa rapido? - Muitissimo e muito
-Voce pensa devagar? - Muitissimo e muito
-Voce fica ansioso ao despertar de manha? - Pouco
-Voce fica ansioso com relacao a saude? - Muitissimo e muito
-Voce e afetuoso? - Muitissimo e muito
-Voce e intuitivo? - Muitissimo e muito(5)
-Sendo do sexo feminino, voce sente desinteresse sexual? - Pouco
-Voce odeia alimentos quentes? - Muitissimo e muito
-Voce odeia frutas? - Muitissimo e muito
-Voce odeia ovos? - Pouco
-Voce gosta de comida gordurosa? - Pouco
-Voce gosta de sorvete? - Muitissimo e muito
-Voce gosta de queijo? - Muitissimo e muito
-Voce gosta de doces? - Pouco
-Voce odeia doces? - Pouco
-Voce gosta de doces mas eles lhe fazem mal? - Pouco
-Voce acha que pasteis lhe fazem mal? - Pouco
-Voce gosta de salgados? - Muitissimo e muito
-Voce odeia peixe? - Pouco
-Voce odeia tomate? - Muitissimo e muito(5)
-Voce gosta de condimentos? - Muitissimo e muito
-Voce acha que alho lhe faz mal? - Muitissimo muito(5) e pouco
-Voce gosta de leite? - Muitissimo muito e pouco
-Voce acha que leite lhe faz mal? - Pouco
-Voce acha que bebida quente lhe faz mal? - Muitissimo muito e pouco
-Voce gosta de bebidas com gas? - Muitissimo muito(5) e pouco
-Voce gosta de bebida alcoolica? - Pouco
-Voce odeia cafe? - Pouco
-Voce tem medo de agua? - Muitissimo muito e pouco
-Voce tem medo de tempestades? - Muitissimo e muito 
-Voce tem medo de fantasma? - Muitissimo e muito 
-Voce tem medo do escuro? - Muitissimo e muito
-Voce tem medo de ladrao? - Pouco
-Voce tem medo de ficar sozinho? - Muitissimo e muito
-Voce tem medo de doenca? - Muitissimo e muito
-Voce tem medo de ficar louco? - Pouco
-Voce tem medo de ter cancer? - Muitissimo muito e pouco
-Voce tem medo da morte? - Muitissimo e muito
-Voce teme pela saude da sua familia? - Pouco
-Voce tem medo de falir? - Pouco
-Voce tem medo de ficar exausto? - Pouco
-Voce sente calor nos pes durante a noite? (tira-os das cobertas) - Pouco
-Voce e friorento mas melhora no calor? - Pouco
-Seus pes suam muito e cheiram mal? - Pouco
-Enfermidades pioram depois de suar? - Pouco
-Enfermidades pioram quando venta muito? - Muitissimo e muito
-Voce costuma ter dor de cabeca antes de tempestades? - Muitissimo e muito
-Voce e sensivel a dores? - Muitissimo e muito
-Seus olhos sao sensiveis a luz do sol? - Pouco
-Voce e sensivel ao mais leve ruido? - Pouco
-Voce sente dor de cabeca ou fraqueza ao nao fazer uma refeicao? - Muitissimo muito e pouco
-Enfermidades melhoram durante a menstruacao? - Pouco
-Enfermidades pioram na epoca da lua cheia? - Muitissimo e muito
-Enfermidades pioram de manha e a noite? - Pouco
-Voce evita deitar-se sobre o lado esquerdo ao dormir? - Muitissimo e muito
-Voce evita deitar-se sobre o lado direito ao dormir? - Pouco
-Voce e propenso a enfermidades no lado esquerdo do corpo? - Muitissimo e muito
+Voce chora na fase pre-menstrual?-3
+Voce gosta de solidariedade?-1-2-3
+Voce e solidario?-1-2
+Acha que te falta solidariedade?-1-2
+Voce e irritavel?-3
+Enfurece-se com facilidade?-3
+Voce e desconfiado?-3
+Voce e critico?-3
+Voce e tolerante/passivo?-3
+Voce e facilmente impressionavel?-1-2
+Voce pensa rapido?-1-2
+Voce pensa devagar?-1-2
+Voce fica ansioso ao despertar de manha?-3
+Voce fica ansioso com relacao a saude?-1-2
+Voce e afetuoso?-1-2
+Voce e intuitivo?-1-2
+Sendo do sexo feminino, voce sente desinteresse sexual?-3
+Voce odeia alimentos quentes?-1-2
+Voce odeia frutas?-1-2
+Voce odeia ovos?-3
+Voce gosta de comida gordurosa?-3
+Voce gosta de sorvete?-1-2
+Voce gosta de queijo?-1-2
+Voce gosta de doces?-3
+Voce odeia doces?-3
+Voce gosta de doces mas eles lhe fazem mal?-3
+Voce acha que pasteis lhe fazem mal?-3
+Voce gosta de salgados?-1-2
+Voce odeia peixe?-3
+Voce odeia tomate?-1-2
+Voce gosta de condimentos?-1-2
+Voce acha que alho lhe faz mal?-1-2-3
+Voce gosta de leite?-1-2-3
+Voce acha que leite lhe faz mal?-3
+Voce acha que bebida quente lhe faz mal?-1-2-3
+Voce gosta de bebidas com gas?-1-2-3
+Voce gosta de bebida alcoolica?-3
+Voce odeia cafe?-3
+Voce tem medo de agua?-1-2-3
+Voce tem medo de tempestades?-1-2 
+Voce tem medo de fantasma?-1-2 
+Voce tem medo do escuro?-1-2
+Voce tem medo de ladrao?-3
+Voce tem medo de ficar sozinho?-1-2
+Voce tem medo de doenca?-1-2
+Voce tem medo de ficar louco?-3
+Voce tem medo de ter cancer?-1-2-3
+Voce tem medo da morte?-1-2
+Voce teme pela saude da sua familia?-3
+Voce tem medo de falir?-3
+Voce tem medo de ficar exausto?-3
+Voce sente calor nos pes durante a noite? (tira-os das cobertas)-3
+Voce e friorento mas melhora no calor?-3
+Seus pes suam muito e cheiram mal?-3
+Enfermidades pioram depois de suar?-3
+Enfermidades pioram quando venta muito?-1-2
+Voce costuma ter dor de cabeca antes de tempestades?-1-2
+Voce e sensivel a dores?-1-2
+Seus olhos sao sensiveis a luz do sol?-3
+Voce e sensivel ao mais leve ruido?-3
+Voce sente dor de cabeca ou fraqueza ao nao fazer uma refeicao?-1-2-3
+Enfermidades melhoram durante a menstruacao?-3
+Enfermidades pioram na epoca da lua cheia?-1-2
+Enfermidades pioram de manha e a noite?-3
+Voce evita deitar-se sobre o lado esquerdo ao dormir?-1-2
+Voce evita deitar-se sobre o lado direito ao dormir?-3
+Voce e propenso a enfermidades no lado esquerdo do corpo?-1-2

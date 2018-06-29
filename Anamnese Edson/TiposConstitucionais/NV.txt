@@ -1,44 +1,44 @@
-Musica o leva as lagrimas? - Pouco
-Voce e solidario? - Pouco
-Voce tem tendencia a suspirar com frequencia? - Pouco
-Voce e irritavel? - Muitissimo e muito
-Voce e irritavel na fase pre-menstrual? - Pouco
-Enfurece-se com facilidade? - Muitissimo e muito
-Voce fica puto quando te contrariam? - Pouco
-Voce e ciumento? - Muitissimo e muito
-Voce e desconfiado? - Pouco
-Voce e critico? - Pouco
-Voce e meticuloso? - Muitissimo e muito
-Voce e consciencioso com trivialidades? - Pouco
-Voce e ambicioso? - Muitissimo e muito
-Voce e pessimista? - Pouco
-Voce e tolerante/passivo? - Pouco
-Voce e inseguro? - Pouco
-Voce teme as opinioes alheias? - Muitissimo e muito
-Voce pensa rapido? - Pouco
-Voce fica ansioso ao despertar de manha? - Pouco
-Voce gosta de comida gordurosa? - Muitissimo e muito
-Voce gosta de condimentos? - Muitissimo e muito
-Voce gosta de leite? - Muitissimo muito e pouco
-Voce acha que leite lhe faz mal? - Pouco
-Voce acha que bebida gelada lhe faz mal? - Pouco
-Voce gosta de bebida alcoolica? - Muitissimo e muito
-Voce acha que cerveja lhe faz mal? - Muitissimo e muito(5)
-Voce gosta de cafe? - Muitissimo e muito
-Voce odeia cafe? - Muitissimo e muito
-Voce acha que cafe lhe faz mal? Muitissimo e muito
-Voce tem medo de multidoes ou espacos abertos? - Muitissimo muito e pouco
-Voce tem medo de doenca? - Pouco
-Voce tem medo de ficar louco? - Pouco
-Voce tem medo da morte? - Muitissimo e muito
-Voce tem medo de falir? - Muitissimo e muito
-Voce e friorento mas melhora no calor? - Muitissimo e muito
-Enfermidades pioram quando o tempo e frio e seco? - Muitissimo e muito
-Enfermidades pioram quando venta muito? - Muitissimo e muito
-Voce e sensivel a dores? - Muitissimo e muito
-Voce e sensivel ao cheiro de tabaco? - Pouco
-Voce e sensivel ao mais leve ruido? - Muitissimo muito e pouco
-Voce se sente melhor apos um cochilo rapido? - Pouco
-Enfermidades pioram entre 2h - 5h? - Muitissimo e muito
-Voce evita deitar-se sobre o lado direito ao dormir? - Pouco
-Voce e propenso a enfermidades no lado direito do corpo? - Muitissimo e muito
+Musica o leva as lagrimas?-3
+Voce e solidario?-3
+Voce tem tendencia a suspirar com frequencia?-3
+Voce e irritavel?-1-2
+Voce e irritavel na fase pre-menstrual?-3
+Enfurece-se com facilidade?-1-2
+Voce fica puto quando te contrariam?-3
+Voce e ciumento?-1-2
+Voce e desconfiado?-3
+Voce e critico?-3
+Voce e meticuloso?-1-2
+Voce e consciencioso com trivialidades?-3
+Voce e ambicioso?-1-2
+Voce e pessimista?-3
+Voce e tolerante/passivo?-3
+Voce e inseguro?-3
+Voce teme as opinioes alheias?-1-2
+Voce pensa rapido?-3
+Voce fica ansioso ao despertar de manha?-3
+Voce gosta de comida gordurosa?-1-2
+Voce gosta de condimentos?-1-2
+Voce gosta de leite?-1-2-3
+Voce acha que leite lhe faz mal?-3
+Voce acha que bebida gelada lhe faz mal?-3
+Voce gosta de bebida alcoolica?-1-2
+Voce acha que cerveja lhe faz mal?-1-2
+Voce gosta de cafe?-1-2
+Voce odeia cafe?-1-2
+Voce acha que cafe lhe faz mal?-1-2
+Voce tem medo de multidoes ou espacos abertos?-1-2-3
+Voce tem medo de doenca?-3
+Voce tem medo de ficar louco?-3
+Voce tem medo da morte?-1-2
+Voce tem medo de falir?-1-2
+Voce e friorento mas melhora no calor?-1-2
+Enfermidades pioram quando o tempo e frio e seco?-1-2
+Enfermidades pioram quando venta muito?-1-2
+Voce e sensivel a dores?-1-2
+Voce e sensivel ao cheiro de tabaco?-3
+Voce e sensivel ao mais leve ruido?-1-2-3
+Voce se sente melhor apos um cochilo rapido?-3
+Enfermidades pioram entre 2h e 5h?-1-2
+Voce evita deitar-se sobre o lado direito ao dormir?-3
+Voce e propenso a enfermidades no lado direito do corpo?-1-2

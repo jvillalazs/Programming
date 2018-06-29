@@ -1,73 +1,73 @@
-Voce chora a toa? - Muitissimo e muito
-Chora de Autocomiseracao? - Muitissimo muito e pouco
-Chorar alivia pra voce? - Muitissimo e muito
-Voce chora na fase pre-menstrual? - Muitissimo e muito
-Voce gosta de solidariedade? - Muitissimo muito e pouco
-Voce e solidario? - Muitissimo e muito
-Voce tem tendencia a suspirar com frequencia? - Pouco
-Voce e irritavel na fase pre-menstrual? - Pouco
-Voce e impulsivo? - Muitissimo muito e pouco
-Voce e ciumento? - Pouco
-Voce e meticuloso? - Muitissimo e muito
-Voce e perfeccionista? - Pouco
-Voce e consciencioso com trivialidades? - Pouco
-Voce e vaidoso? - Pouco
-Voce e egoista? - Pouco
-Voce e propenso a preocupar-se com tudo? - Pouco
-Voce e ansioso e cauteloso? - Pouco
-Voce e tolerante/passivo? - Muitissimo e muito
-Voce e inseguro? - Pouco
-Voce teme as opinioes alheias? - Muitissimo e muito
-Voce se sente inibido? - Pouco
-Voce pensa devagar? - Muitissimo e muito
-Voce fica ansioso com relacao a saude? - Pouco
-Voce e afetuoso? - Muito
-Voce odeia alimentos quentes? - Muitissimo e muito
-Voce perde o apetite durante a menstruacao? - Pouco
-Voce odeia misturar alimentos? - Pouco
-Voce come como se nao houvesse amanha? - Muitissimo e muito
-Voce acha que frutas lhe fazem mal? - Muitissimo e muito
-Voce odeia frutas? - Muitissimo muito e pouco
-Voce gosta de ovos? - Pouco
-Voce odeia ovos? - Muitissimo e muito
-Voce gosta de pao com manteiga? - Pouco
-Comida gordurosa lhe provoca problemas digestivos? - Muitissimo e muito
-Voce gosta de sorvete? - Pouco
-Voce gosta de amendoim? - Muitissimo muito(5) e pouco
-Voce gosta de queijo? - Pouco
-Voce odeia porco? - Muitissimo e muito
-Voce gosta de doces? - Pouco
-Voce gosta de doces mas eles lhe fazem mal? - Pouco
-Voce acha que pasteis lhe fazem mal? - Muitissimo e muito
-Voce gosta de limao? - Pouco
-Voce acha que cebola lhe faz mal? - Pouco
-Voce acha que leite lhe faz mal? - Pouco
-Voce acha que bebida quente lhe faz mal? - Muitissimo muito e pouco
-Voce acha que bebida gelada lhe faz mal? - Pouco
-Voce gosta de bebida alcoolica? - Pouco
-Voce acha que cerveja lhe faz mal? - Pouco
-Voce tem pouca sede? - Muitissimo e muito(5)
-Voce acha que cafe lhe faz mal? - Pouco
-Voce tem medo de locais fechados? - Muitissimo e muito
-Voce tem medo de multidoes ou espacos abertos? - Muitissimo muito e pouco
-Voce tem medo de fantasma? - Muitissimo e muito
-Voce tem medo do escuro? - Pouco
-Voce tem medo de ficar sozinho? - Pouco
-Voce tem medo de ficar louco? - Muitissimo e muito
-Voce tem medo da morte? - Pouco
-Voce e calorento e piora nos dias quentes? - Muitissimo muito e pouco
-Enfermidades pioram em ambientes abafados? - Muitissimo e muito
-Voce sente calor nos pes durante a noite? (tira-os das cobertas) - Muitissimo e muito
-Voce e friorento mas piora no calor? - Muitissimo e muito
-Seus pes suam muito e cheiram mal? - Muitissimo e muito
-Enfermidades pioram depois de suar? - Pouco
-Enfermidades pioram quando ficam muito tempo em pe? - Muitissimo e muito
-Enfermidades pioram quando o tempo e frio e umido? - Pouco
+Voce chora a toa?-1-2
+Chora de Autocomiseracao?-1-2-3
+Chorar alivia pra voce?-1-2
+Voce chora na fase pre-menstrual?-1-2
+Voce gosta de solidariedade?-1-2-3
+Voce e solidario?-1-2
+Voce tem tendencia a suspirar com frequencia?-3
+Voce e irritavel na fase pre-menstrual?-3
+Voce e impulsivo?-1-2-3
+Voce e ciumento?-3
+Voce e meticuloso?-1-2
+Voce e perfeccionista?-3
+Voce e consciencioso com trivialidades?-3
+Voce e vaidoso?-3
+Voce e egoista?-3
+Voce e propenso a preocupar-se com tudo?-3
+Voce e ansioso e cauteloso?-3
+Voce e tolerante/passivo?-1-2
+Voce e inseguro?-3
+Voce teme as opinioes alheias?-1-2
+Voce se sente inibido?-3
+Voce pensa devagar?-1-2
+Voce fica ansioso com relacao a saude?-3
+Voce e afetuoso?-2
+Voce odeia alimentos quentes?-1-2
+Voce perde o apetite durante a menstruacao?-3
+Voce odeia misturar alimentos?-3
+Voce come como se nao houvesse amanha?-1-2
+Voce acha que frutas lhe fazem mal?-1-2
+Voce odeia frutas?-1-2-3
+Voce gosta de ovos?-3
+Voce odeia ovos?-1-2
+Voce gosta de pao com manteiga?-3
+Comida gordurosa lhe provoca problemas digestivos?-1-2
+Voce gosta de sorvete?-3
+Voce gosta de amendoim?-1-2-3
+Voce gosta de queijo?-3
+Voce odeia porco?-1-2
+Voce gosta de doces?-3
+Voce gosta de doces mas eles lhe fazem mal?-3
+Voce acha que pasteis lhe fazem mal?-1-2
+Voce gosta de limao?-3
+Voce acha que cebola lhe faz mal?-3
+Voce acha que leite lhe faz mal?-3
+Voce acha que bebida quente lhe faz mal?-1-2-3
+Voce acha que bebida gelada lhe faz mal?-3
+Voce gosta de bebida alcoolica?-3
+Voce acha que cerveja lhe faz mal?-3
+Voce tem pouca sede?-1-2
+Voce acha que cafe lhe faz mal?-3
+Voce tem medo de locais fechados?-1-2
+Voce tem medo de multidoes ou espacos abertos?-1-2-3
+Voce tem medo de fantasma?-1-2
+Voce tem medo do escuro?-3
+Voce tem medo de ficar sozinho?-3
+Voce tem medo de ficar louco?-1-2
+Voce tem medo da morte?-3
+Voce e calorento e piora nos dias quentes?-1-2-3
+Enfermidades pioram em ambientes abafados?-1-2
+Voce sente calor nos pes durante a noite? (tira-os das cobertas)-1-2
+Voce e friorento mas piora no calor?-1-2
+Seus pes suam muito e cheiram mal?-1-2
+Enfermidades pioram depois de suar?-3
+Enfermidades pioram quando ficam muito tempo em pe?-1-2
+Enfermidades pioram quando o tempo e frio e umido?-3
 Enfermidades pioram quando o tempo e frio e seco?
-Enfermidades pioram quando venta muito? - Muitissimo e muito
-Voce fica melhor respirando ar marinho? - Muitissimo muito e pouco
-Voce e sensivel ao cheiro de tabaco? - Pouco
-Enfermidades melhoram durante a menstruacao? - Pouco
-Enfermidades pioram na primavera? - Pouco
-Enfermidades pioram na epoca da lua cheia? - Muitissimo e muito
-Voce e propenso a enfermidades no lado direito do corpo? - Muitissimo e muito
+Enfermidades pioram quando venta muito?-1-2
+Voce fica melhor respirando ar marinho?-1-2-3
+Voce e sensivel ao cheiro de tabaco?-3
+Enfermidades melhoram durante a menstruacao?-3
+Enfermidades pioram na primavera?-3
+Enfermidades pioram na epoca da lua cheia?-1-2
+Voce e propenso a enfermidades no lado direito do corpo?-1-2
