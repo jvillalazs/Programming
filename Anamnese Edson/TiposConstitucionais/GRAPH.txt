@@ -1,33 +1,30 @@
-Voce chora a toa? - Pouco
-Voce chora de ansiedade? - Muitissimo e muito
-Musica o leva as lagrimas? - Muitissimo e muito
-Voce tem tendencia a suspirar com frequencia? - Pouco
-Voce e instavel e inconstante? - Pouco
-Voce e critico? - Muitissimo e muito
-Voce e meticuloso? - Pouco
-Voce e ansioso e indeciso? - Muitissimo, muito e pouco
-Voce pensa devagar? - Pouco
-Voce e inquieto no trabalho, escola ou faculdade? - Muitissimo, muito e pouco
-Sendo do sexo feminino, voce sente desinteresse sexual? - Pouco
-Sendo do sexo masculino, voce sente desinteresse sexual? - Muitissimo e muito
-
-Voce odeia alimentos quentes? - Muitissimo e muito
-Comida gordurosa lhe provoca problemas digestivos? - Muitissimo e muito
-Voce odeia doces? - Muitissimo e muito
-Voce odeia salgados? - Muitissimo e muito
-Voce odeia peixe? - Muitissimo e muito
-
-Voce tem medo de tempestades? - Pouco
-Voce tem medo de ficar louco? -Pouco
-Voce tem medo da morte? - Muitissimo e muito
-
-Enfermidades pioram em ambientes abafados? -Muitissimo e muito
-Voce e friorento mas piora no calor? - Pouco
-Seus pes suam muito e cheiram mal? -Muitissimo e muito
-Enfermidades pioram quando o tempo e frio e umido? - Pouco
-Voce e sensivel a dores? - Muitissimo e muito
-Seus olhos sao sensiveis a luz do sol? - Muitissimo e muito
-Voce sente dor de cabeca ou fraqueza ao nao fazer uma refeicao? - Muitissimo e muito
-Enfermidades pioram na epoca da lua cheia? - Pouco
-Enfermidades pioram de manha e a noite? - Pouco
-Voce e propenso a enfermidades no lado esquerdo do corpo? - Muitissimo e muito
+Voce chora a toa?-3
+Voce chora de ansiedade?-1-2
+Musica o leva as lagrimas?-1-2
+Voce tem tendencia a suspirar com frequencia?-3
+Voce e instavel e inconstante?-3
+Voce e critico?-1-2
+Voce e meticuloso?-3
+Voce e ansioso e indeciso?-1-2-3
+Voce pensa devagar?-3
+Voce e inquieto no trabalho, escola ou faculdade?-1-2-3
+Sendo do sexo feminino, voce sente desinteresse sexual?-3
+Sendo do sexo masculino, voce sente desinteresse sexual?-1-2
+Voce odeia alimentos quentes?-1-2
+Comida gordurosa lhe provoca problemas digestivos?-1-2
+Voce odeia doces?-1-2
+Voce odeia salgados?-1-2
+Voce odeia peixe?-1-2
+Voce tem medo de tempestades?-3
+Voce tem medo de ficar louco?-3
+Voce tem medo da morte?-1-2
+Enfermidades pioram em ambientes abafados?-1-2
+Voce e friorento mas piora no calor?-3
+Seus pes suam muito e cheiram mal?-1-2
+Enfermidades pioram quando o tempo e frio e umido?-3
+Voce e sensivel a dores?-1-2
+Seus olhos sao sensiveis a luz do sol?-1-2
+Voce sente dor de cabeca ou fraqueza ao nao fazer uma refeicao?-1-2
+Enfermidades pioram na epoca da lua cheia?-3
+Enfermidades pioram de manha e a noite?-3
+Voce e propenso a enfermidades no lado esquerdo do corpo?-1-2

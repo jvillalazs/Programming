@@ -1,35 +1,32 @@
-Chorar alivia pra voce? - Muitissimo e muito
-Voce e irritavel na fase pre-menstrual? - Pouco
-Voce e ciumento? - Muitissimo e muito
-Voce e desconfiado? - Muitissimo e muito
-Voce e critico? - Pouco
-Voce e egoista? - Pouco
-Voce e ambicioso? - Pouco
-Voce e propenso a especular? - Pouco
-Voce pensa rapido? - Muitissimo e muito
-Voce muda de assunto com frequencia? - Muitissimo, muito e pouco
-Voce fica ansioso ao despertar de manha? - Muitissimo e muito
-Voce odeia ser tocado? - Pouco
-Voce e intuitivo? - Pouco
-Sendo do sexo feminino, voce sente desinteresse sexual? - Pouco
-
-Voce odeia alimentos quentes? - Pouco
-Voce gosta de amilaceos? - Mutissimo e muito
-Voce gosta de ostras? - Muitissimo e muito
-Voce gosta de picles? - Pouco
-Voce acha que bebida quente lhe faz mal? - Muitissimo, muito e pouco
-Voce gosta de bebida alcoolica? - Muitissimo e muito
-
-Voce tem medo de cobra? - Muitissimo e muito
-Voce tem medo de agua? - Muitissimo, muito e pouco
-Voce tem medo de ladrao? - Pouco
-Voce tem medo de ser envenenado? (por comida estragada ou poluicao) - Muitissimo, muito e pouco
-Voce tem medo da morte? - Pouco
-
-Voce e friorento mas piora no calor? - Pouco
-Enfermidades pioram quando o tempo e frio e umido? - Pouco
-Enfermidades pioram quando venta muito? - Pouco
-Enfermidades melhoram durante a menstruacao? - Muitissimo e muito
-Enfermidades pioram na primavera? - Muitissimo e muito
-Enfermidades pioram na epoca da lua cheia? - Pouco
-Voce e propenso a enfermidades no lado esquerdo do corpo? - Muitissimo e muito
+Chorar alivia pra voce?-1-2
+Voce e irritavel na fase pre-menstrual?-3
+Voce e ciumento?-1-2
+Voce e desconfiado?-1-2
+Voce e critico?-3
+Voce e egoista?-3
+Voce e ambicioso?-3
+Voce e propenso a especular?-3
+Voce pensa rapido?-1-2
+Voce muda de assunto com frequencia?-1-2-3
+Voce fica ansioso ao despertar de manha?-1-2
+Voce odeia ser tocado?-3
+Voce e intuitivo?-3
+Sendo do sexo feminino, voce sente desinteresse sexual?-3
+Voce odeia alimentos quentes?-3
+Voce gosta de amilaceos?-1-2
+Voce gosta de ostras?-1-2
+Voce gosta de picles?-3
+Voce acha que bebida quente lhe faz mal?-1-2-3
+Voce gosta de bebida alcoolica?-1-2
+Voce tem medo de cobra?-1-2
+Voce tem medo de agua?1-2-3
+Voce tem medo de ladrao?-3
+Voce tem medo de ser envenenado? (por comida estragada ou poluicao)-1-2-3
+Voce tem medo da morte?-3
+Voce e friorento mas piora no calor?-3
+Enfermidades pioram quando o tempo e frio e umido?-3
+Enfermidades pioram quando venta muito?-3
+Enfermidades melhoram durante a menstruacao?-1-2
+Enfermidades pioram na primavera?-1-2
+Enfermidades pioram na epoca da lua cheia?-3
+Voce e propenso a enfermidades no lado esquerdo do corpo?-1-2

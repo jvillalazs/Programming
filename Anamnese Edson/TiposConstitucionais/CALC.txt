@@ -1,53 +1,50 @@
-Chora de Autocomiseracao? - Muitissimo, muito e pouco
-Voce e irritavel? - Pouco
-Voce e meticuloso? - Pouco
-Voce e propenso a preocupar-se com tudo? - Muitissimo e muito
-Voce pensa devagar? - Muitissimo e muito
-Voce fica ansioso com relacao a saude? - Pouco
-Voce e intuitivo? - Pouco
-
-Voce odeia alimentos quentes? - Pouco
-Voce gosta de alimentos crus? - Pouco
-Voce come como se nao houvesse amanha? - Pouco
-Voce gosta de ovos? - Muitissimo e muito
-Voce acha que feijao ou ervilha lhe fazem mal? - Pouco
-Voce gosta de amilaceos? - Pouco
-Voce gosta de sorvete? - Pouco
-Voce gosta de queijo? - Pouco
-Voce gosta de azeite de oliva? - Pouco
-Voce gosta de doces? - Pouco
-Voce gosta de doces mas eles lhe fazem mal? - Pouco
-Voce gosta de salgados? - Pouco
-Voce gosta de ostras? - Pouco
-Voce gosta de leite? - Muitissimo, muito e pouco
-Voce acha que leite lhe faz mal?- Muitissimo e muito
-Voce relutava para mamar no peito durante a infancia? - Pouco
-Voce gosta de bebida alcoolica? - Pouco
-Voce odeia cafe? - Muitissimo e muito
-
-Voce tem medo de locais fechados? - Pouco
-Voce tem medo de ratos? - Muitissimo, muito e pouco
-Voce tem medo de cobra? - Pouco
-Voce tem medo de tempestades? - Pouco
-Voce tem medo de fantasma? - Pouco
-Voce tem medo do escuro? - Pouco
-Voce tem medo de doenca? - Pouco
-Voce tem medo de ficar louco? - Muitissimo e muito
-Voce tem medo de ter cancer? - Muitissimo e muito
-Voce tem medo da morte? - Muitissimo e muito
-Voce tem medo de ficar pobre? - Pouco
-
-Voce sente calor nos pes durante a noite? (tira-os das cobertas) - Pouco
-Voce e friorento mas piora no calor? - Pouco
-Voce e friorento mas melhora no calor? - Pouco
-Seus pes suam muito e cheiram mal? - Pouco
-Enfermidades pioram depois de suar? - Pouco
-Sua cabeca fica suada quando acorda? - Muitissimo e muito
-Enfermidades pioram quando ficam muito tempo em pe? - Pouco
-Enfermidades pioram quando o tempo e frio e umido? - Muitissimo e muito
-Voce e sensivel a dores? - Pouco
-Enfermidades melhoram durante a menstruacao? - Pouco
-Enfermidades pioram na primavera? - Muitissimo e muito
-Enfermidades pioram na epoca da lua cheia? - Muitissimo e muito
-Enfermidades pioram de manha e a noite? - Pouco
-Voce e propenso a enfermidades no lado direito do corpo? - Muitissimo e muito
+Chora de Autocomiseracao?-1-2-3
+Voce e irritavel?-3
+Voce e meticuloso?-3
+Voce e propenso a preocupar-se com tudo?-1-2
+Voce pensa devagar?-1-2
+Voce fica ansioso com relacao a saude?-3
+Voce e intuitivo?-3
+Voce odeia alimentos quentes?-3
+Voce gosta de alimentos crus?-3
+Voce come como se nao houvesse amanha?-3
+Voce gosta de ovos?-1-2
+Voce acha que feijao ou ervilha lhe fazem mal?-3
+Voce gosta de amilaceos?-3
+Voce gosta de sorvete?-3
+Voce gosta de queijo?-3
+Voce gosta de azeite de oliva?-3
+Voce gosta de doces?-3
+Voce gosta de doces mas eles lhe fazem mal?-3
+Voce gosta de salgados?-3
+Voce gosta de ostras?-3
+Voce gosta de leite?-1-2-3
+Voce acha que leite lhe faz mal?-1-2
+Voce relutava para mamar no peito durante a infancia?-3
+Voce gosta de bebida alcoolica?-3
+Voce odeia cafe?-1-2
+Voce tem medo de locais fechados?-3
+Voce tem medo de ratos?-1-2-3
+Voce tem medo de cobra?-3
+Voce tem medo de tempestades?-3
+Voce tem medo de fantasma?-3
+Voce tem medo do escuro?-3
+Voce tem medo de doenca?-3
+Voce tem medo de ficar louco?-1-2
+Voce tem medo de ter cancer?-1-2
+Voce tem medo da morte?-1-2
+Voce tem medo de ficar pobre?-3
+Voce sente calor nos pes durante a noite? (tira-os das cobertas)-3
+Voce e friorento mas piora no calor?-3
+Voce e friorento mas melhora no calor?-3
+Seus pes suam muito e cheiram mal?-3
+Enfermidades pioram depois de suar?-3
+Sua cabeca fica suada quando acorda?-1-2
+Enfermidades pioram quando ficam 2 tempo em pe?-3
+Enfermidades pioram quando o tempo e frio e umido?-1-2
+Voce e sensivel a dores?-3
+Enfermidades melhoram durante a menstruacao?-3
+Enfermidades pioram na primavera?-1-2
+Enfermidades pioram na epoca da lua cheia?-1-2
+Enfermidades pioram de manha e a noite?-3
+Voce e propenso a enfermidades no lado direito do corpo?-1-2

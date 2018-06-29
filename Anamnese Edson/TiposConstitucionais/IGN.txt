@@ -1,41 +1,38 @@
-Odeia solidariedade? - Muitissimo e muito
-Voce e solidario? - Pouco
-Voce tem tendencia a suspirar com frequencia? - Muitissimo e muito
-Voce tem tendencia a remoer pensamento ou ficar de mau humor? - Muitissimo e muito
-Voce fica puto quando te contrariam? - Muitissimo e muito
-Voce tem tendencia a contrariar? - Muitissimo e muito
-Voce e impulsivo? - Muitissimo e muito
-Voce e instavel e inconstante? - Muitissimo e muito
-Voce e consciencioso com trivialidades? - Muitissimo e muito
-Voce e ambicioso? - Pouco
-Voce e propenso a preocupar-se com tudo? - Muitissimo e muito
-Voce fica ansioso quando se espera algo de voce? - Pouco
-Voce e ansioso e cauteloso? - Pouco
-Voce e tolerante/passivo? - Pouco
-Voce pensa rapido? - Muitissimo e muito
-Voce reprime a tristeza apos consternacao? - Muitissimo, muito e pouco
-Voce e afetuoso? - Pouco
-Voce fica mentalmente melhor apos exercicios vigorosos? - Pouco
-Voce odeia ser tocado? - Pouco
-Sendo do sexo masculino, voce sente desinteresse sexual? - Pouco
-
-Voce odeia alimentos quentes? - Pouco
-Voce gosta de alimentos crus? - Pouco
-Voce perde o apetite durante a menstruacao? - Pouco
-Voce odeia misturar alimentos? - Muitissimo e muito
-Voce odeia frutas? - Muitissimo, muito e pouco
-Voce gosta de pao com manteiga? - Pouco
-Voce gosta de queijo? - Pouco
-Voce gosta de picles? - Pouco
-Voce acha que cebola lhe faz mal? - Pouco
-Voce acha que cafe lhe faz mal? - Muitissimo e muito
-
-Voce tem medo de locais fechados? - Pouco
-Voce tem medo de ladrao? - Pouco
-Voce tem medo de sofrer emocionalmente? - Pouco
-Voce tem medo de nao conseguir se controlar? - Pouco
-
-Voce e friorento mas melhora no calor? - Pouco
-Voce e sensivel a dores? - Muitissimo e muito
-Voce e sensivel ao cheiro de tabaco? - Muitissimo e muito
-Seus olhos sao sensiveis a luz do sol? - Pouco
+Odeia solidariedade?-1-2
+Voce e solidario?-3
+Voce tem tendencia a suspirar com frequencia?-1-2
+Voce tem tendencia a remoer pensamento ou ficar de mau humor?-1-2
+Voce fica puto quando te contrariam?-1-2
+Voce tem tendencia a contrariar?-1-2
+Voce e impulsivo?-1-2
+Voce e instavel e inconstante?-1-2
+Voce e consciencioso com trivialidades?-1-2
+Voce e ambicioso?-3
+Voce e propenso a preocupar-se com tudo?-1-2
+Voce fica ansioso quando se espera algo de voce?-3
+Voce e ansioso e cauteloso?-3
+Voce e tolerante/passivo?-3
+Voce pensa rapido?-1-2
+Voce reprime a tristeza apos consternacao?-1-2-3
+Voce e afetuoso?-3
+Voce fica mentalmente melhor apos exercicios vigorosos?-3
+Voce odeia ser tocado?-3
+Sendo do sexo masculino, voce sente desinteresse sexual?-3
+Voce odeia alimentos quentes?-3
+Voce gosta de alimentos crus?-3
+Voce perde o apetite durante a menstruacao?-3
+Voce odeia misturar alimentos?-1-2
+Voce odeia frutas?-1-2-3
+Voce gosta de pao com manteiga?-3
+Voce gosta de queijo?-3
+Voce gosta de picles?-3
+Voce acha que cebola lhe faz mal?-3
+Voce acha que cafe lhe faz mal?-1-2
+Voce tem medo de locais fechados?-3
+Voce tem medo de ladrao?-3
+Voce tem medo de sofrer emocionalmente?-3
+Voce tem medo de nao conseguir se controlar?-3
+Voce e friorento mas melhora no calor?-3
+Voce e sensivel a dores?-1-2
+Voce e sensivel ao cheiro de tabaco?-1-2
+Seus olhos sao sensiveis a luz do sol?-3

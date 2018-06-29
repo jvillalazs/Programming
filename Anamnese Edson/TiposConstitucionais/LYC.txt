@@ -1,78 +1,75 @@
-Voce chora a toa? - Pouco
-Voce chora ao receber agradecimento? - Muitissimo e muito
-Chorar alivia pra voce? - Pouco
-Voce chora na fase pre-menstrual? - Pouco
-Acha que te falta solidariedade? - Pouco
-Voce e irritavel na fase pre-menstrual? - Pouco
-Enfurece-se com facilidade? - Muitissimo e muito
-Voce e ditatorial? - Muitissimo, muito e pouco
-Voce fica puto quando te contrariam? - Muitissimo e muito
-Voce tem tendencia a contrariar? - Pouco
-Voce e ciumento? - Pouco
-Voce e desconfiado? - Muitissimo e muito
-Voce e critico? - Pouco
-Voce e consciencioso com trivialidades? - Pouco
-Voce e vaidoso? - Muitissimo, muito e pouco
-Voce e egoista? - Muitissimo e muito
-Voce e ambicioso? - Pouco
-Voce e propenso a preocupar-se com tudo? - Pouco
-Voce fica ansioso quando acompanhado?  - Muitissimo, muito e pouco
-Voce fica ansioso quando se espera algo de voce? - Muitissimo e muito
-Voce e ansioso e cauteloso? - Pouco
-Voce e tolerante/passivo? - Pouco
-Voce e inseguro? - Muitissimo e muito
-Voce teme as opinioes alheias? - Pouco
-Voce evita novos empreendimentos com medo de fracassar? - Muitissimo, muito e pouco
-Voce e timido para falar em publico? (porem capaz). - Muitissimo, muito e pouco
-Voce e apreensivo? - Muitissimo e muito
-Voce se sente inibido? - Pouco
-Voce tende a procrastinacao? - Muitissimo e muito
-Voce fica ansioso ao despertar de manha? - Pouco
-Voce fica ansioso com relacao a saude? - Muitissimo e muito
-Sendo do sexo feminino, voce sente desinteresse sexual? - Pouco
-Sendo do sexo masculino, voce sente desinteresse sexual? - Muitissimo e muito
-
-Voce gosta de alimentos e bebidas quentes? - Pouco
-Voce odeia alimentos quentes? - Pouco
-Voce perde o apetite durante a menstruacao? - Pouco
-Voce odeia misturar alimentos? - Muitissimo e muito
-Voce come como se nao houvesse amanha? - Muitissimo e muito
-Voce acha que frutas lhe fazem mal? - Pouco
-Voce acha que feijao ou ervilha lhe fazem mal? - Muitissimo e muito
-Voce gosta de amilaceos? - Muitissimo e muito
-Comida gordurosa lhe provoca problemas digestivos? - Pouco
-Voce gosta de azeite de oliva? - Muitissimo e muito
-Voce gosta de doces? - Muitissimo e muito
-Voce odeia doces? - Pouco
-Voce gosta de doces mas eles lhe fazem mal? - Muitissimo e muito
-Voce acha que pasteis lhe fazem mal? - Pouco
-Voce gosta de ostras? - Pouco
-Voce acha que marisco lhe faz mal? - Muitissimo, muito e pouco
-Voce acha que cebola lhe faz mal? - Muitissimo e muito
-Voce acha que leite lhe faz mal? - Pouco
-Voce gosta de bebida alcoolica? - Pouco
-Voce acha que cerveja lhe faz mal? - Pouco
-Voce tem pouca sede? - Pouco
-
-Voce tem medo de locais fechados? - Muitissimo e muito
-Voce tem medo de multidoes ou espacos abertos? - Muitissimo, muito e pouco
-Voce tem medo de fantasma? - Muitissimo e muito
-Voce tem medo do escuro? - Pouco
-Voce tem medo de ficar sozinho? - Muitissimo e muito
-Voce tem medo da morte? - Pouco
-Voce tem medo de falir? - Muitissimo e muito
-
-Enfermidades pioram em ambientes abafados? - Muitissimo e muito
-Voce e friorento mas piora no calor? - Pouco
-Seus pes suam muito e cheiram mal? - Muitissimo e muito
-Enfermidades pioram quando o tempo e frio e umido? - Pouco
-Enfermidades pioram quando venta muito? - Muitissimo e muito
-Voce adora ver tempestades? - Pouco
-Voce e sensivel a dores? - Muitissimo e muito
-Voce e sensivel ao mais leve ruido? - Pouco
-Voce sente dor de cabeca ou fraqueza ao nao fazer uma refeicao? - Muitissimo, muito e pouco
-Enfermidades pioram entre 4h - 8h e 16h - 20h? - Muitissimo e muito
-Enfermidades pioram na primavera? - Muitissimo e muito
-Enfermidades pioram na epoca da lua cheia? - Muitissimo e muito
-Enfermidades pioram de manha e a noite? - Pouco
-Voce e propenso a enfermidades no lado direito do corpo? - Muitissimo e muito
+Voce chora a toa?-3
+Voce chora ao receber agradecimento?-1-2
+Chorar alivia pra voce?-3
+Voce chora na fase pre-menstrual?-3
+Acha que te falta solidariedade?-3
+Voce e irritavel na fase pre-menstrual?-3
+Enfurece-se com facilidade?-1-2
+Voce e ditatorial?-1-2-3
+Voce fica puto quando te contrariam?-1-2
+Voce tem tendencia a contrariar?-3
+Voce e ciumento?-3
+Voce e desconfiado?-1-2
+Voce e critico?-3
+Voce e consciencioso com trivialidades?-3
+Voce e vaidoso?-1-2-3
+Voce e egoista?-1-2
+Voce e ambicioso?-3
+Voce e propenso a preocupar-se com tudo?-3
+Voce fica ansioso quando acompanhado? -1-3
+Voce fica ansioso quando se espera algo de voce?-1-2
+Voce e ansioso e cauteloso?-3
+Voce e tolerante/passivo?-3
+Voce e inseguro?-1-2
+Voce teme as opinioes alheias?-3
+Voce evita novos empreendimentos com medo de fracassar?-1-2-3
+Voce e timido para falar em publico? (porem capaz).-1-2-3
+Voce e apreensivo?-1-2
+Voce se sente inibido?-3
+Voce tende a procrastinacao?-1-2
+Voce fica ansioso ao despertar de manha?-3
+Voce fica ansioso com relacao a saude?-1-2
+Sendo do sexo feminino, voce sente desinteresse sexual?-3
+Sendo do sexo masculino, voce sente desinteresse sexual?-1-2
+Voce gosta de alimentos e bebidas quentes?-3
+Voce odeia alimentos quentes?-3
+Voce perde o apetite durante a menstruacao?-3
+Voce odeia misturar alimentos?-1-2
+Voce come como se nao houvesse amanha?-1-2
+Voce acha que frutas lhe fazem mal?-3
+Voce acha que feijao ou ervilha lhe fazem mal?-1-2
+Voce gosta de amilaceos?-1-2
+Comida gordurosa lhe provoca problemas digestivos?-3
+Voce gosta de azeite de oliva?-1-2
+Voce gosta de doces?-1-2
+Voce odeia doces?-3
+Voce gosta de doces mas eles lhe fazem mal?-1-2
+Voce acha que pasteis lhe fazem mal?-3
+Voce gosta de ostras?-3
+Voce acha que marisco lhe faz mal?-1-2-3
+Voce acha que cebola lhe faz mal?-1-2
+Voce acha que leite lhe faz mal?-3
+Voce gosta de bebida alcoolica?-3
+Voce acha que cerveja lhe faz mal?-3
+Voce tem pouca sede?-3
+Voce tem medo de locais fechados?-1-2
+Voce tem medo de multidoes ou espacos abertos?-1-2-3
+Voce tem medo de fantasma?-1-2
+Voce tem medo do escuro?-3
+Voce tem medo de ficar sozinho?-1-2
+Voce tem medo da morte?-3
+Voce tem medo de falir?-1-2
+Enfermidades pioram em ambientes abafados?-1-2
+Voce e friorento mas piora no calor?-3
+Seus pes suam muito e cheiram mal?-1-2
+Enfermidades pioram quando o tempo e frio e umido?-3
+Enfermidades pioram quando venta muito?-1-2
+Voce adora ver tempestades?-3
+Voce e sensivel a dores?-1-2
+Voce e sensivel ao mais leve ruido?-3
+Voce sente dor de cabeca ou fraqueza ao nao fazer uma refeicao?-1-2-3
+Enfermidades pioram entre 4h e 8h e 16h e 20h?-1-2
+Enfermidades pioram na primavera?-1-2
+Enfermidades pioram na epoca da lua cheia?-1-2
+Enfermidades pioram de manha e a noite?-3
+Voce e propenso a enfermidades no lado direito do corpo?-1-2
