@@ -1,170 +1,41 @@
-Voce chora a toa?
-Voce chora ao receber agradecimento?
-Voce chora de ansiedade?
-Chora de Autocomiseracao?
-Musica o leva as lagrimas?
-Chorar alivia pra voce?
-Voce chora na fase pre-menstrual?
-Voce gosta de solidariedade?
-Odeia solidariedade?
-Voce e solidario?
-Acha que te falta solidariedade?
-Voce tem tendencia a suspirar com frequencia?
-Voce tem tendencia a remoer pensamento ou ficar de mau humor?
-Voce e irritavel?
-Voce e irritavel na fase pre-menstrual?
-Enfurece-se com facilidade?
-Voce e ditatorial?
-Voce fica puto quando te contrariam?
-Voce tem tendencia a contrariar?
-Voce e impulsivo?
-Voce e instavel e inconstante?
-Voce e ciumento?
-Voce e desconfiado?
-Voce e critico?
-Voce e meticuloso?
-Voce e perfeccionista?
-Voce e consciencioso com trivialidades?
-Voce e vaidoso?
-Voce e egoista?
-Voce e ambicioso?
-Voce e propenso a especular?
-Voce e pessimista?
-Voce e propenso a preocupar-se com tudo?
-Voce fica ansioso quando acompanhado?
-Voce fica ansioso quando se espera algo de voce?
-Voce fica ansioso com a sensacao de preocupacao?
-Voce e ansioso e cauteloso?
-Voce e ansioso e indeciso?
-Voce e tolerante/passivo?
-Voce e inseguro?
-Voce teme as opinioes alheias?
-Voce evita novos empreendimentos com medo de fracassar?
-Voce e timido para falar em publico? (porem capaz).
-Voce e apreensivo?
-Voce se sente inibido?
-Voce e facilmente impressionavel?
-Voce pensa rapido?
-Voce pensa devagar?
-Voce muda de assunto com frequencia?
-Voce tende a procrastinacao?
-Voce e inquieto no trabalho, escola ou faculdade?
-Voce fica ansioso ao despertar de manha?
-Voce fica ansioso com relacao a saude?
-Voce reprime a tristeza apos consternacao?
-Voce e afetuoso?
-Voce fica mentalmente melhor apos exercicios vigorosos?
-Voce odeia ser tocado?
-Voce e intuitivo?
-Voce sente repulsa sexual por mulheres?
-Voce sente repulsa sexual por homens?
+Odeia solidariedade? - Muitissimo e muito
+Voce e solidario? - Pouco
+Voce tem tendencia a suspirar com frequencia? - Muitissimo e muito
+Voce tem tendencia a remoer pensamento ou ficar de mau humor? - Muitissimo e muito
+Voce fica puto quando te contrariam? - Muitissimo e muito
+Voce tem tendencia a contrariar? - Muitissimo e muito
+Voce e impulsivo? - Muitissimo e muito
+Voce e instavel e inconstante? - Muitissimo e muito
+Voce e consciencioso com trivialidades? - Muitissimo e muito
+Voce e ambicioso? - Pouco
+Voce e propenso a preocupar-se com tudo? - Muitissimo e muito
+Voce fica ansioso quando se espera algo de voce? - Pouco
+Voce e ansioso e cauteloso? - Pouco
+Voce e tolerante/passivo? - Pouco
+Voce pensa rapido? - Muitissimo e muito
+Voce reprime a tristeza apos consternacao? - Muitissimo, muito e pouco
+Voce e afetuoso? - Pouco
+Voce fica mentalmente melhor apos exercicios vigorosos? - Pouco
+Voce odeia ser tocado? - Pouco
+Voce sente repulsa sexual por homens? - Pouco
 
-Voce gosta de alimentos e bebidas quentes?
-Voce odeia alimentos quentes?
-Voce gosta de alimentos crus?
-Voce perde o apetite durante a menstruacao?
-Voce odeia misturar alimentos?
-Voce come como se nao houvesse amanha?
-Voce acha que frutas lhe fazem mal?
-Voce odeia frutas?
-Voce gosta de ovos?
-Voce acha que feijao ou ervilha lhe fazem mal?
-Voce gosta de amilaceos?
-Voce gosta de pao com manteiga?
-Voce gosta de comida gordurosa?
-Comida gordurosa lhe provoca problemas digestivos?
-Voce gosta de sorvete?
-Voce gosta de amendoim?
-Voce gosta de queijo?
-Voce gosta de azeite de oliva?
-Voce odeia porco?
-Voce gosta de doces?
-Voce odeia doces?
-Voce gosta de doces mas eles lhe fazem mal?
-Voce gosta de doces porque eles nao lhe fazem mal?
-Voce acha que pasteis lhe fazem mal?
-Voce gosta de salgados?
-Voce odeia salgados?
-Voce gosta de ostras?
-Voce odeia peixe?
-Voce acha que marisco lhe faz mal?
-Voce gosta de limao?
-Voce gosta de picles?
-Voce odeia tomate?
-Voce gosta de condimentos?
-Voce acha que alho lhe faz mal?
-Voce acha que cebola lhe faz mal?
-Voce gosta de leite?
-Voce acha que leite lhe faz mal?
-Voce relutava para mamar no peito durante a infancia?
-Voce acha que bebida quente lhe faz mal?
-Voce acha que bebida gelada lhe faz mal?
-Voce gosta de bebidas com gas?
-Voce gosta de bebida alcoolica?
-Voce acha que cerveja lhe faz mal?
-Voce tem pouca sede?
-Voce gosta de cafe?
-Voce odeia cafe?
-Voce acha que cafe lhe faz mal?
+Voce odeia alimentos quentes? - Pouco
+Voce gosta de alimentos crus? - Pouco
+Voce perde o apetite durante a menstruacao? - Pouco
+Voce odeia misturar alimentos? - Muitissimo e muito
+Voce odeia frutas? - Muitissimo, muito e pouco
+Voce gosta de pao com manteiga? - Pouco
+Voce gosta de queijo? - Pouco
+Voce gosta de picles? - Pouco
+Voce acha que cebola lhe faz mal? - Pouco
+Voce acha que cafe lhe faz mal? - Muitissimo e muito
 
-Voce tem medo de altura?
-Voce tem medo de locais fechados?
-Voce tem medo de multidoes ou espacos abertos?
-Voce tem medo de ratos?
-Voce tem medo de cobra?
-Voce tem medo de agua?
-Voce tem medo de tempestades?
-Voce tem medo de objetos pontiagudos?
-Voce tem medo de fantasma?
-Voce tem medo do escuro?
-Voce tem medo de ladrao?
-Voce tem medo de ficar sozinho?
-Voce tem medo de se atrasar?
-Voce tem medo de sofrer emocionalmente?
-Voce tem medo de ser envenenado? (por comida estragada ou poluicao)
-Voce tem medo de doenca?
-Voce tem medo de ficar louco?
-Voce tem medo de ter cancer?
-Voce tem medo da morte?
-Voce teme pela saude da sua familia?
-Voce tem medo de falir?
-Voce tem medo de ficar pobre?
-Voce tem medo de nao conseguir se controlar?
-Voce tem medo de ficar exausto?
+Voce tem medo de locais fechados? - Pouco
+Voce tem medo de ladrao? - Pouco
+Voce tem medo de sofrer emocionalmente? - Pouco
+Voce tem medo de nao conseguir se controlar? - Pouco
 
-Voce e calorento e piora nos dias quentes?
-Enfermidades pioram em ambientes abafados?
-Voce sente calor nos pes durante a noite? (tira-os das cobertas)
-Voce e friorento mas piora no calor?
-Voce e friorento mas melhora no calor?
-Seus pes suam muito e cheiram mal?
-Enfermidades pioram depois de suar?
-Sua cabeca fica suada quando acorda?
-Enfermidades pioram quando ficam muito tempo em pe?
-Enfermidades pioram quando o tempo e frio e umido?
-Enfermidades pioram quando o tempo e frio e seco?
-Enfermidades pioram quando venta muito?
-Voce fica melhor respirando ar marinho?
-Voce fica pior respirando ar marinho?
-Voce adora ver tempestades?
-Voce costuma ter dor de cabeca antes de tempestades?
-Voce e sensivel a dores?
-Voce e sensivel ao cheiro de tabaco?
-Seus olhos sao sensiveis a luz do sol?
-Voce e sensivel ao mais leve ruido?
-Voce sente dor de cabeca ou fraqueza ao nao fazer uma refeicao?
-Voce se sente melhor em jejum?
-Voce se sente melhor apos um cochilo rapido?
-Enfermidades melhoram durante a menstruacao?
-Enfermidades pioram entre 4h - 8h e 16h - 20h?
-Enfermidades pioram entre 4h - 6h e 16h - 18h?
-Enfermidades pioram entre 1h - 2h?
-Enfermidades pioram entre 2h - 5h?
-Enfermidades pioram na primavera?
-Enfermidades pioram na epoca da lua cheia?
-Enfermidades pioram de manha e a noite?
-Enfermidades pioram do por-do-sol ao amanhecer?
-Voce evita deitar-se sobre o lado esquerdo ao dormir?
-Voce evita deitar-se sobre o lado direito ao dormir?
-Voce e propenso a enfermidades no lado esquerdo do corpo?
-Voce e propenso a enfermidades no lado direito do corpo?
+Voce e friorento mas melhora no calor? - Pouco
+Voce e sensivel a dores? - Muitissimo e muito
+Voce e sensivel ao cheiro de tabaco? - Muitissimo e muito
+Seus olhos sao sensiveis a luz do sol? - Pouco
