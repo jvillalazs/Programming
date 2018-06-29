@@ -29,8 +29,8 @@ Voce se sente inibido? - Pouco
 Voce tende a procrastinacao? - Muitissimo e muito
 Voce fica ansioso ao despertar de manha? - Pouco
 Voce fica ansioso com relacao a saude? - Muitissimo e muito
-Voce sente repulsa sexual por mulheres? - Pouco
-Voce sente repulsa sexual por homens? - Muitissimo e muito
+Sendo do sexo feminino, voce sente desinteresse sexual? - Pouco
+Sendo do sexo masculino, voce sente desinteresse sexual? - Muitissimo e muito
 
 Voce gosta de alimentos e bebidas quentes? - Pouco
 Voce odeia alimentos quentes? - Pouco

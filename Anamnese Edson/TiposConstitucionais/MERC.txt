@@ -1,27 +1,27 @@
-Voce tem tendencia a contrariar? - Pouco
-Voce se sente inibido? - Muitissimo e muito
+Voce tem tendencia a contrariar?-3
+Voce se sente inibido?-1-2
 
-Voce gosta de pao com manteiga? - Muitissimo e muito
-Voce odeia doces? - Pouco
-Voce odeia salgados? - Pouco
-Voce gosta de limao? - Pouco
-Voce gosta de leite? - Muitissimo, muito e pouco
-Voce relutava para mamar no peito durante a infancia? - Pouco
-Voce odeia cafe? - Pouco
-Voce acha que cafe lhe faz mal? - Pouco
+Voce gosta de pao com manteiga?-1-2
+Voce odeia doces?-3
+Voce odeia salgados?-3
+Voce gosta de limao?-3
+Voce gosta de leite?-1-2-3
+Voce relutava para mamar no peito durante a infancia?-3
+Voce odeia cafe?-3
+Voce acha que cafe lhe faz mal?-3
 
-Voce tem medo de tempestades? - Pouco
-Voce tem medo de objetos pontiagudos? - Pouco
-Voce tem medo de ladrao? - Pouco
-Voce tem medo de ficar louco? - Pouco
-Voce tem medo da morte? - Pouco
-Voce teme pela saude da sua familia? - Muitissimo e muito
+Voce tem medo de tempestades?-3
+Voce tem medo de objetos pontiagudos?-3
+Voce tem medo de ladrao?-3
+Voce tem medo de ficar louco?-3
+Voce tem medo da morte?-3
+Voce teme pela saude da sua familia?-1-2
 
-Enfermidades pioram em ambientes abafados? - Pouco
-Voce e friorento mas piora no calor? - Muitissimo e muito
-Enfermidades pioram depois de suar? - Muitissimo e muito
-Enfermidades pioram quando o tempo e frio e umido? - Pouco
-Seus olhos sao sensiveis a luz do sol? - Pouco
-Enfermidades pioram na epoca da lua cheia? - Pouco
-Enfermidades pioram do por-do-sol ao amanhecer? - Muitissimo, muito e pouco
-Voce evita deitar-se sobre o lado direito ao dormir? - Muitissimo e muito
+Enfermidades pioram em ambientes abafados?-3
+Voce e friorento mas piora no calor?-1-2
+Enfermidades pioram depois de suar?-1-2
+Enfermidades pioram quando o tempo-frio-umido?-3
+Seus olhos sao sensiveis a luz do sol?-3
+Enfermidades pioram na epoca da lua cheia?-3
+Enfermidades pioram do por-do-sol ao amanhecer?-1-2-3
+Voce evita deitar-se sobre o lado direito ao dormir?-1-2

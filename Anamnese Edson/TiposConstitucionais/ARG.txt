@@ -1,33 +1,33 @@
-Voce e impulsivo? - Muitissimo e muito
-Voce fica ansioso quando se espera algo de voce? - Pouco
-Voce fica ansioso com a sensacao de preocupacao? - Muitissimo, muito e pouco
-Voce evita novos empreendimentos com medo de fracassar? - Muitissimo, muito e pouco
-Voce e apreensivo? - Muitissimo e muito
-Voce e facilmente impressionavel? - Pouco
-Voce fica ansioso com relacao a saude? - Muitissimo e muito
+Voce e impulsivo?-1-2
+Voce fica ansioso quando se espera algo de voce?-3
+Voce fica ansioso com a sensacao de preocupacao?-1-2-3
+Voce evita novos empreendimentos com medo de fracassar?-1-2-3
+Voce e apreensivo?-1-2
+Voce e facilmente impressionavel?-3
+Voce fica ansioso com relacao a saude?-1-2
 
-Voce gosta de queijo? - Muitissimo e muito
-Voce gosta de doces? - Muitissimo e muito
-Voce odeia doces? - Pouco
-Voce gosta de doces mas eles lhe fazem mal? - Muitissimo e muito
-Voce gosta de salgados? - Muitissimo e muito
-Voce tem pouca sede? - Pouco
+Voce gosta de queijo?-1-2
+Voce gosta de doces?-1-2
+Voce odeia doces?-3
+Voce gosta de doces mas eles lhe fazem mal?-1-2
+Voce gosta de salgados?-1-2
+Voce tem pouca sede?-3
 
-Voce tem medo de altura? - Muitissimo e muito
-Voce tem medo de locais fechados? - Muitissimo e muito
-Voce tem medo de multidoes ou espacos abertos? - Muitissimo, muito e pouco
-Voce tem medo de ladrao? - Pouco
-Voce tem medo de ficar sozinho? - Muitissimo e muito
-Voce tem medo de se atrasar? - Muitissimo e muito
-Voce tem medo de doenca? - Pouco
-Voce tem medo de ficar louco? - Pouco
-Voce tem medo da morte? - Pouco
-Voce tem medo de falir? - Pouco
-Voce tem medo de nao conseguir se controlar? - Muitissimo e muito
+Voce tem medo de altura?-1-2
+Voce tem medo de locais fechados?-1-2
+Voce tem medo de multidoes ou espacos abertos?-1-2-3
+Voce tem medo de ladrao?-3
+Voce tem medo de ficar sozinho?-1-2
+Voce tem medo de se atrasar?-1-2
+Voce tem medo de doenca?-3
+Voce tem medo de ficar louco?-3
+Voce tem medo da morte?-3
+Voce tem medo de falir?-3
+Voce tem medo de nao conseguir se controlar?-1-2
 
-Voce e calorento e piora nos dias quentes? - Muito e pouco
-Enfermidades pioram em ambientes abafados? - Pouco
-Enfermidades pioram quando o tempo e frio e umido? - Pouco
-Enfermidades pioram na epoca da lua cheia? - Muitissimo e muito
-Voce evita deitar-se sobre o lado esquerdo ao dormir? - Pouco
-Voce e propenso a enfermidades no lado esquerdo do corpo? - Muitissimo e muito
+Voce e calorento e piora nos dias quentes?-2-3
+Enfermidades pioram em ambientes abafados?-3
+Enfermidades pioram quando o tempo e frio e umido?-3
+Enfermidades pioram na epoca da lua cheia?-1-2
+Voce evita deitar-se sobre o lado esquerdo ao dormir?-3
+Voce e propenso a enfermidades no lado esquerdo do corpo?-1-2

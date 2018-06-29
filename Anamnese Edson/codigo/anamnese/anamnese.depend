@@ -7,16 +7,17 @@
 
 1530194884 c:\users\manogray\documents\programming\anamnese edson\codigo\adinamico.h
 
-1530195027 source:c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.c
+1530279797 source:c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"adinamico.h"
 	"grafo.h"
+	"pergunta.h"
 
-1530195008 c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.h
+1530278463 c:\users\manogray\documents\programming\anamnese edson\codigo\grafo.h
 
-1530276122 source:c:\users\manogray\documents\programming\anamnese edson\codigo\anamnese.c
+1530279762 source:c:\users\manogray\documents\programming\anamnese edson\codigo\anamnese.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>

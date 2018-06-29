@@ -10,7 +10,7 @@ typedef void (*TDestroiGrafo) (TGrafo* graf);
 
 struct vertice{
 	char pergunta[400];
-	char resposta[200];
+	int resposta;
 	int pontuacao;
 	int visitado;
 	int marcado;

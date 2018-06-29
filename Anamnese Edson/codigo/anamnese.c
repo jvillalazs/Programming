@@ -33,11 +33,11 @@ void ColetaRespostas(TArrayDinamico* vet){
         ok = 0;
         TPergunta* ppp = dadosVet->vetor[contador];
         TDadosPergunta* dadosPPP = ppp->dadosPergunta;
-        printf("\n\n%d) %s\n\n",contador+1,dadosPPP->perguntinha);
-        printf("[1]Muitissimo   [2]Muito   [3]Pouco   [0]Nao se aplica\n");
         while(ok == 0){
+            printf("\n\n%d) %s\n\n",contador+1,dadosPPP->perguntinha);
+            printf("[1]Muitissimo   [2]Muito   [3]Pouco   [0]Nao se aplica\n\n");
             scanf("%d",&temp);
-            if(temp <= 3 || temp >= 0){
+            if(temp <= 3 && temp >= 0){
                 dadosPPP->resposta = temp;
                 ok = 1;
             }else{
@@ -48,7 +48,9 @@ void ColetaRespostas(TArrayDinamico* vet){
     }
 }
 
+void AlimentaGrafo(TGrafo* graf, char *diretorio){
 
+}
 
 int main(){
 

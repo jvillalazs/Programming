@@ -3,8 +3,9 @@
 #include <string.h>
 #include "adinamico.h"
 #include "grafo.h"
+#include "pergunta.h"
 
-static Tvertice *criarVertice(char pergunta[400], char resposta[200], int pontuacao){
+static Tvertice *criarVertice(char pergunta[400], int resposta, int pontuacao){
 	Tvertice *aloca = malloc(sizeof(Tvertice));
 	if(aloca!= NULL){
 		strcpy(aloca->pergunta,pergunta);
@@ -29,10 +30,26 @@ static TDadosGrafo *criarDadosGrafo(char nome[100], char sigla[50]){
 }
 
 static Tvertice* InserirGrafo(Tvertice *fonte, void* elem){
-	Tvertice* novoElemento = elem;
+	TPergunta* novoElemento = elem;
+	TDadosPergunta* dadoNovoElemento = novoElemento->dadosPergunta;
 
 	if(fonte == NULL){
-		fonte = elem;
+	    int pont;
+	    switch(dadoNovoElemento->resposta){
+            case 1:
+                pont = 5;
+                break;
+            case 2:
+                pont = 3;
+                break;
+            case 3:
+                pont = 1;
+                break;
+            default:
+                pont = 0;
+                break;
+		}
+        fonte = criarVertice(dadoNovoElemento->perguntinha,dadoNovoElemento->resposta,pont);
 	}else{
 		InserirGrafo(fonte->coleguinha,elem);
 	}
