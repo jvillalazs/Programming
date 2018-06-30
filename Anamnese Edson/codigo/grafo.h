@@ -4,9 +4,9 @@
 typedef struct Grafo TGrafo;
 typedef struct vertice Tvertice;
 
-typedef void (*TinserirGrafo)(Tvertice *graf,void* elem);
-typedef void* (*TbuscarGrafo)(Tvertice *graf, void* param1, void* param2);
-typedef int (*TmedeCaminho)(Tvertice* graf);
+typedef Tvertice* (*TinserirGrafo)(Tvertice *fonte,void* elem);
+typedef Tvertice* (*TbuscarGrafo)(Tvertice *fonte, void* elem);
+typedef int (*TmedeCaminho)(Tvertice* fonte);
 typedef void (*TDestroiGrafo) (TGrafo* graf);
 
 struct vertice{
@@ -24,6 +24,7 @@ typedef struct dadosGrafo{
 	int vertices;
 	int visitados;
 	int marcados;
+	int pontuacaoGeral;
 	Tvertice* fonte;
 } TDadosGrafo;
 
